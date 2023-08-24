@@ -1,1 +1,1 @@
-Readme on git and github basics 
+Repository on git and github basics 
