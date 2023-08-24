@@ -1,1 +1,1 @@
-ALX software engineer with bash C and Js
+ALX software engineer and devops with bash C and Js
